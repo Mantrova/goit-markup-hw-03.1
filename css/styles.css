@@ -411,7 +411,12 @@ margin-right: 0;
     border: 1px solid #EEEEEE;
     border-top: 0;
 }
-
+ 
+.portfolio-card {   
+    padding: 20px 24px;
+ 
+ }
+ 
 .card-image {
     display: block;
     max-width: 100%;
@@ -419,7 +424,4 @@ margin-right: 0;
 }
 
  
-.portfolio-card {   
-   padding: 20px 24px;
 
-}
